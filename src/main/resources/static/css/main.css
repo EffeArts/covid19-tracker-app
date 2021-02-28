@@ -1,0 +1,15 @@
+.main-jumbo{
+    background-image: url("../img/coronavirus.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    font-size: xx-large !important;
+    font-weight: 900 !important;
+    color: whitesmoke;
+}
+
+.jumbo-title{
+    background-color: cornflowerblue;
+    padding: 20px;
+    width: 30%;
+}
